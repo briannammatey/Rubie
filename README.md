@@ -1,20 +1,14 @@
-# Expo Router Example
+# Rubie: Wellness for PCOS
+Hi my name is Brianna Matey and this the startup of my prototype that I am creating.
+I want to thank my mentor Melinda and Innovate@BU for supporting this project
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
+## IN PROGRESS
+Please note this is a working project and that for right now I will aim to create, until further
+ - The splash scree
+ - Sign up page
+ - Profile creation
 
-## 🚀 How to use
 
-```sh
-npx create-expo-app -e with-router
-```
-
-## Deploy
-
-Deploy on all platforms with Expo Application Services (EAS).
-
-- Deploy the website: `npx eas-cli deploy` — [Learn more](https://docs.expo.dev/eas/hosting/get-started/)
-- Deploy on iOS and Android using: `npx eas-cli build` — [Learn more](https://expo.dev/eas)
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
+Tech Stack:
+- React native
+- Javascript
