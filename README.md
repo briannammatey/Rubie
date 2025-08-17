@@ -4,7 +4,7 @@ I want to thank my mentor Melinda and Innovate@BU for supporting this project
 
 ## IN PROGRESS
 Please note this is a working project and that for right now I will aim to create, until further
- - The splash scree
+ - The splash screen
  - Sign up page
  - Profile creation
 
