@@ -5,6 +5,12 @@
       "expo-router"
     ],
     "name": "RubieWellnessApp",
-    "slug": "RubieWellnessApp"
+    "slug": "RubieWellnessApp",
+    "splash": {
+      "image": "./assets/images/clearimgrubie.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    }
+    
   }
 }
