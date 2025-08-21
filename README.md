@@ -20,5 +20,10 @@ UI Design:
 
 ## Goal 1: Splash screen
 <img src="https://github.com/briannammatey/Rubie/blob/main/7854930B-DC0E-4FD5-A493-CD675A3D83DA.JPG?raw=true" alt="Rubie Logo" width="300"/>
+Planned: Figma
+Created: On react with a working button
+
+## Goal 2: Sign up page
+In progress: But I am aim to use firebase for the database, or mongoDB. Which I will have to do more research on.
 
 
