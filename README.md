@@ -1,5 +1,5 @@
 # Rubie: Wellness for PCOS
-Hi my name is Brianna Matey and this the startup of my prototype that I am creating. This project may take longer than intended as I am learning as I go.
+Hi my name is Brianna Matey and this the startup of my prototype that I am creating for an idea which I am truly passionate about which is helping people with PCOS. This project may take longer than intended as I am learning as I go.
 
 I want to thank my mentor Melinda, my family and Innovate@BU for supporting this project
 # What is Rubie about?
