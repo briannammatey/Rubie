@@ -18,6 +18,7 @@ Tech Stack Right now:
 UI Design:
 - Figma
 
-# Goal 1: Splash screen
+## Goal 1: Splash screen
 <img src="https://github.com/briannammatey/Rubie/blob/main/7854930B-DC0E-4FD5-A493-CD675A3D83DA.JPG?raw=true" alt="Rubie Logo" width="300"/>
+
 
